@@ -13,3 +13,5 @@
 [1] 딥러닝을 이용한 자연어 처리 입문 : https://wikidocs.net/94600
 [2] 운동 동작 분류 ai 경진대회 베이스라인 코드 : https://dacon.io/competitions/official/235689/codeshare/2290?page=1&dtype=recent
 ```
+
+### 2. [개념] Object Detection
