@@ -31,7 +31,7 @@ https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning
 
 ## 2주차[2022.01.17 ~ 2022.01.23]
 
-### 1. 코드 공유
+### 1. 코드 공유 게시판 [[SITE LINK]](https://dacon.io/community/codeshare?dtype=recent) [[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/2%EC%A3%BC%EC%B0%A8_20220120_R-CNN.ipynb)
 
 [[Object Detection] 1)R-CNN 논문 리뷰 및 구현](https://dacon.io/codeshare/4230?page=1&dtype=recent)<br>
 [Rich feature jierarchies object detection and semantic segmentation](https://arxiv.org/pdf/1311.2524.pdf)
