@@ -40,3 +40,17 @@ Reference
 [4] IOU 정의 : https://minimin2.tistory.com/144
 [5] plot_model 에러 : https://twinstarinfo.blogspot.com/2019/05/pydot-install.html
 ```
+
+
+### 2. [이런 AI도 있다고?] 웹툰 AI 채색 소프트웨어 [[SITE LINK]](https//dacon.io/forum/405843?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)<br>
+
+```
+Reference
+[1] 뉴스 기사 : http://www.aitimes.com/news/articleView.html?idxno=141144
+```
+
+### 3. [머신러닝] iris 데이터를 이용한 분류 모형 비교 [[SITE LINK]](https://dacon.io/codeshare/4250?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)<br>
+
+
+## 3주차[2022.01.24 ~ 2022.01.30]
+
