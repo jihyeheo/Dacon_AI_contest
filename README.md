@@ -54,4 +54,36 @@ Reference
 
 ## 3주차[2022.01.24 ~ 2022.01.30]
 
-## 4주차
+### 1. [질문] 타이타닉 로지스틱 회귀분석[[SITE LINK]](https://dacon.io/codeshare/4259?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
+
+### 2. [머신러닝] 타이타닉 데이터를 이용한 다양한 로지스틱 회귀분석 코드 비교[[SITE LINK]](https://dacon.io/codeshare/4397?utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
+
+```
+Reference
+[1] 전통적인 로지스틱 회귀분석 : https://ichi.pro/ko/hoegwi-bunseog-eul-tonghan-deiteo-modelling-eseo-rgwa-python-ui-munche-chai-39563837736457
+[2] 전통적인 로지스틱 회귀분석 : https://datascienceschool.net/03%20machine%20learning/10.01%20%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%20%ED%9A%8
+[3] 딥러닝 로지스틱 회귀분석 : https://hhlab.tistory.com/7
+```
+
+### 3. [Object Detection] YOLOv3 논문 리뷰[[SITE LINK]](https://dacon.io/forum/405872?utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
+[YOLOv3 논문](https://arxiv.org/pdf/1804.02767.pdf)
+
+```
+Reference
+[1] YOLOv3 정리 : https://89douner.tistory.com/109
+[2] https://deep-learning-study.tistory.com/509
+[3] https://www.youtube.com/watch?v=HMgcvgRrDcA&t=1741s
+```
+
+## 4주차[2022.01.31 ~ 2022.02.06]
+
+### 1. [Object Detection] 자주 쓰이는 데이터셋, COCO란?
+
+
+## 5주차[2022.02.07 ~ 2022.02.13]
+
+## 6주차[2022.02.14 ~ 2022.02.20]
+
+## 7주차[2022.02.21 ~ 2022.02.27]
+
+## 8주차[2022.02.28 ~ 2022.03.04]
