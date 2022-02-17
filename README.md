@@ -1,5 +1,7 @@
 # [Supporters] Dacon_AI_contest [2022.01.10~ 2022.03.08]
 
+## 데이콘 서포터즈 *'데이크루 1기'*
+
 ## 1주차[2022.01.10 ~ 2022.01.16]
 
 ### 1. 영화 리뷰 감성분석 경진대회 [[SITE LINK]](https://dacon.io/competitions/official/235864/overview/description)[[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/1%EC%A3%BC%EC%B0%A8_20220114_LSTM%EB%AA%A8%ED%98%95%EB%B9%84%EA%B5%90.ipynb)<br>
@@ -77,10 +79,56 @@ Reference
 
 ## 4주차[2022.01.31 ~ 2022.02.06]
 
-### 1. [Object Detection] 자주 쓰이는 데이터셋, COCO란?
+### 1. [Object Detection] 자주 쓰이는 데이터셋, COCO란?[[SITE LINK]](https://dacon.io/forum/405930?utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
+COCO 데이터셋에 대한 설명과 다운로드 방법 설명
 
+### 2. [머신러닝] Kaggle 데이터를 이용한 나이브 베이즈(Naive Bayes) 공부[[SITE LINK]](https://dacon.io/codeshare/4419?utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
+
+나이브 베이즈 설명과 패키지 없이 구현, 패키지로 구현
+
+```
+Reference
+[1] 베이즈 정리: https://ko.wikipedia.org/wiki/%EB%B2%A0%EC%9D%B4%EC%A6%88_%EC%A0%95%EB%A6%AC
+[2] 나이브 베이즈 : https://needjarvis.tistory.com/621
+[3] 나이브 베이즈 : https://www.kdnuggets.com/2019/04/naive-bayes-baseline-model-machine-learning-classification-performance.html
+[4] 데이터 출처 : https://www.kaggle.com/pranavpandey2511/tennis-weather/version/1
+```
+
+### 3. [초보자 필독] 타이타닉 데이터를 이용한 전처리 방법들 [[SITE LINK]](https://dacon.io/competitions/open/235539/codeshare/4447?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
 
 ## 5주차[2022.02.07 ~ 2022.02.13]
+
+### 1. [머신러닝] boston 데이터를 이용한 의사결정나무(DecisionTree) 공부 [[SITE LINK]](https://dacon.io/codeshare/4522?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
+
+### 2. [이런 AI도 있다고?] GAN 기술을 사용한 얼굴 합성 (페이스 에디팅)[[SITE LINK]](https://dacon.io/forum/405990?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
+
+- 딥페이크 기술에서 조금 더 응용된 페이스 에디팅을 이용하여 가수 복원
+![image](https://user-images.githubusercontent.com/64202709/154535973-a807acd9-9e16-482c-ac70-874103b99024.png)
+
+
+### 3. [딥러닝] LSTM, GRU 등 간단한 딥러닝을 이용한 주식 종가 예측 [[SITE LINK]](https://dacon.io/codeshare/4527?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1)
+
+Amazon 데이터(2021/02/13 ~ 2022/02/13) 1년치를 이용하여 모델링을 시도
+1) DF(Dickey-Fuller) 검정을 이용한 정상성 여부 점검
+2) log 치환
+3) 모형 비교
+#### 모형1 MAE : 0.2382
+![image](https://user-images.githubusercontent.com/64202709/154533606-c6f18a07-da1b-49dc-9682-224e3cf55e92.png)
+
+#### 모형2 MAE : 0.0200
+![image](https://user-images.githubusercontent.com/64202709/154534245-4dcea574-d82c-4698-849f-11ce2bc9e30d.png)
+
+#### 모형3 MAE : 0.02113
+![image](https://user-images.githubusercontent.com/64202709/154534342-867c9146-2376-4b22-b158-e9809d09d321.png)
+
+#### 모형4 MAE : 0.01980
+![image](https://user-images.githubusercontent.com/64202709/154534485-2ee83ca5-fe65-4faf-8f25-2db29a89ac93.png)
+
+#### 모형5 MAE : 0.01876
+![image](https://user-images.githubusercontent.com/64202709/154534603-d76168bb-b82d-4c2a-8ea3-9e2c549d19f3.png)
+
+#### [결론]
+5가지의 모형을 비교해보았는데 GRU 모형에 층을 쌓은 형태가 가장 MAE가 좋다는 것을 확인하였습니다.
 
 ## 6주차[2022.02.14 ~ 2022.02.20]
 
