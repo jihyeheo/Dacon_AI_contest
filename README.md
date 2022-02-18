@@ -134,9 +134,9 @@ Amazon 데이터(2021/02/13 ~ 2022/02/13) 1년치를 이용하여 모델링을 �
 
 ### 1. [머신러닝 초보필독] 랜덤포레스트(Random Forest) 공부 [[SITE LINK]](https://dacon.io/codeshare/4552?utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/6%EC%A3%BC%EC%B0%A8_20220219_%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8%EC%8B%A4%EC%8A%B5.ipynb) [[STUDY LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/6%EC%A3%BC%EC%B0%A8_20220219_%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8%EA%B0%9C%EB%85%90.pdf)
 
-랜덤포레스트 회귀 데이터 : WINE 데이터를 이용한 알코올 퍼센트 맞추기<br>
-랜덤포레스트 분류 데이터 : 유방암 데이터를 이용한 유방암 유무 맞추기<br>
-외에 쓴 기법 : K-fold, Grid Search, Feature Importance<br>
+- 랜덤포레스트 회귀 데이터 : WINE 데이터를 이용한 알코올 퍼센트 맞추기<br>
+- 랜덤포레스트 분류 데이터 : 유방암 데이터를 이용한 유방암 유무 맞추기<br>
+- 외에 쓴 기법 : K-fold, Grid Search, Feature Importance<br>
 
 ```
 Reference
