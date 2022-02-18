@@ -132,6 +132,8 @@ Amazon 데이터(2021/02/13 ~ 2022/02/13) 1년치를 이용하여 모델링을 �
 
 ## 6주차[2022.02.14 ~ 2022.02.20]
 
+### 1. [머신러닝 초보필독] 랜덤포레스트(Random Forest) 공부 [[SITE LINK]](https://dacon.io/codeshare/4552?utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/6%EC%A3%BC%EC%B0%A8_20220219_%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8%EC%8B%A4%EC%8A%B5.ipynb) [[STUDY LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/6%EC%A3%BC%EC%B0%A8_20220219_%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8%EA%B0%9C%EB%85%90.pdf)
+
 ## 7주차[2022.02.21 ~ 2022.02.27]
 
 ## 8주차[2022.02.28 ~ 2022.03.04]
