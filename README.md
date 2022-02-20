@@ -1,6 +1,6 @@
 # [Supporters] Dacon_AI_contest [2022.01.10~ 2022.03.08]
 
-## 데이콘 서포터즈 *'데이크루 1기'*
+## 데이콘 서포터즈 *'데이크루 1기'* [[블로그]](https://blog.naver.com/soodagnu) [[데이콘 활동]](https://dacon.io/myprofile/409575/home)
 
 ## 1주차[2022.01.10 ~ 2022.01.16]
 
@@ -149,6 +149,26 @@ Reference
 [7] 랜덤포레스트 회귀 예시 : https://riverzayden.tistory.com/14
 ```
 
+### 2. [Object Detection] 학습 되어진 weight를 이용한 YOLOv3 구현 [[SITE LINK]](https://dacon.io/codeshare/4557?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/6%EC%A3%BC%EC%B0%A8_20220219_YOLOv3.ipynb)
+
+- 깃허브 pretrain weight를 이용한 YOLOv3구현
+- backbone network : darknet53
+
+```
+Reference
+[1] 참고 깃허브 : https://github.com/eriklindernoren/PyTorch-YOLOv3
+```
+
+### 3. Pycaret을 활용한 예측_(1)(score:1054169.64284)[[SITE LINK]](https://dacon.io/competitions/open/235538/codeshare/4560?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/6%EC%A3%BC%EC%B0%A8_20220220_Pycaret_modeling.ipynb)
+
+- [스포츠] 해외 축구 선수 이직료 예측 미션 [[SITE]](https://dacon.io/competitions/open/235538/overview/description) <br>
+- 회귀 문제, Pycaret으로 모델링, 3가지 모델 블랜딩
+  
+```
+Reference
+[1] https://today-1.tistory.com/17
+[2] https://dacon.io/codeshare/4243?dtype=recent
+```
 
 ## 7주차[2022.02.21 ~ 2022.02.27]
 
