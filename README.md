@@ -112,20 +112,7 @@ Amazon 데이터(2021/02/13 ~ 2022/02/13) 1년치를 이용하여 모델링을 �
 1) DF(Dickey-Fuller) 검정을 이용한 정상성 여부 점검
 2) log 치환
 3) 모형 비교
-#### 모형1 MAE : 0.2382
-![image](https://user-images.githubusercontent.com/64202709/154533606-c6f18a07-da1b-49dc-9682-224e3cf55e92.png)
 
-#### 모형2 MAE : 0.0200
-![image](https://user-images.githubusercontent.com/64202709/154534245-4dcea574-d82c-4698-849f-11ce2bc9e30d.png)
-
-#### 모형3 MAE : 0.02113
-![image](https://user-images.githubusercontent.com/64202709/154534342-867c9146-2376-4b22-b158-e9809d09d321.png)
-
-#### 모형4 MAE : 0.01980
-![image](https://user-images.githubusercontent.com/64202709/154534485-2ee83ca5-fe65-4faf-8f25-2db29a89ac93.png)
-
-#### 모형5 MAE : 0.01876
-![image](https://user-images.githubusercontent.com/64202709/154534603-d76168bb-b82d-4c2a-8ea3-9e2c549d19f3.png)
 
 #### [결론]
 5가지의 모형을 비교해보았는데 GRU 모형에 층을 쌓은 형태가 가장 MAE가 좋다는 것을 확인하였습니다.
@@ -171,7 +158,13 @@ Reference
 ```
 
 ## 7주차[2022.02.21 ~ 2022.02.27]
+### [1] [트렌드 따라잡기]Yumm-IT, 딥페이크를 탐지하는 기술이 있다고? [[SITE LINK]](https://dacon.io/forum/406045?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) 
+### [1] [머신러닝] 앙상블 기법에 대하여 알아보자(VOTING, BAGGING) [[SITE LINK]](https://dacon.io/codeshare/4578?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/7%EC%A3%BC%EC%B0%A8_20220227_Ensemble_Voting%2CBagging.ipynb) [[STUDY]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/7%EC%A3%BC%EC%B0%A8_20220227_Ensemble.pdf)
+### [1] [머신러닝] 앙상블 기법에 대하여 알아보자(BOOSTING) [[SITE LINK]](https://dacon.io/codeshare/4581?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]()
 
 ## 8주차[2022.02.28 ~ 2022.03.04]
+### [1] [머신러닝] 앙상블 기법에 대하여 알아보자(STACKING) [[SITE LINK]](https://dacon.io/codeshare/4651?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
+### [2] [잡음] 가우시안 노이즈(Gaussian Noise) [[SITE LINK]](https://dacon.io/codeshare/4652?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
+### [3] [Object Detection] 3) YOLOv1 논문 리뷰 [[SITE LINK]](https://dacon.io/forum/406114?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
 
-## 
+
