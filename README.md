@@ -158,13 +158,13 @@ Reference
 ```
 
 ## 7주차[2022.02.21 ~ 2022.02.27]
-### [1] [트렌드 따라잡기]Yumm-IT, 딥페이크를 탐지하는 기술이 있다고? [[SITE LINK]](https://dacon.io/forum/406045?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) 
-### [1] [머신러닝] 앙상블 기법에 대하여 알아보자(VOTING, BAGGING) [[SITE LINK]](https://dacon.io/codeshare/4578?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/7%EC%A3%BC%EC%B0%A8_20220227_Ensemble_Voting%2CBagging.ipynb) [[STUDY]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/7%EC%A3%BC%EC%B0%A8_20220227_Ensemble.pdf)
-### [1] [머신러닝] 앙상블 기법에 대하여 알아보자(BOOSTING) [[SITE LINK]](https://dacon.io/codeshare/4581?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]()
+### 1. [트렌드 따라잡기]Yumm-IT, 딥페이크를 탐지하는 기술이 있다고? [[SITE LINK]](https://dacon.io/forum/406045?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) 
+### 2. [머신러닝] 앙상블 기법에 대하여 알아보자(VOTING, BAGGING) [[SITE LINK]](https://dacon.io/codeshare/4578?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/7%EC%A3%BC%EC%B0%A8_20220227_Ensemble_Voting%2CBagging.ipynb) [[STUDY]](https://github.com/jihyeheo/Dacon_AI_contest/blob/main/7%EC%A3%BC%EC%B0%A8_20220227_Ensemble.pdf)
+### 3. [머신러닝] 앙상블 기법에 대하여 알아보자(BOOSTING) [[SITE LINK]](https://dacon.io/codeshare/4581?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]()
 
 ## 8주차[2022.02.28 ~ 2022.03.04]
-### [1] [머신러닝] 앙상블 기법에 대하여 알아보자(STACKING) [[SITE LINK]](https://dacon.io/codeshare/4651?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
-### [2] [잡음] 가우시안 노이즈(Gaussian Noise) [[SITE LINK]](https://dacon.io/codeshare/4652?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
-### [3] [Object Detection] 3) YOLOv1 논문 리뷰 [[SITE LINK]](https://dacon.io/forum/406114?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
+### 1. [머신러닝] 앙상블 기법에 대하여 알아보자(STACKING) [[SITE LINK]](https://dacon.io/codeshare/4651?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
+### 2. [잡음] 가우시안 노이즈(Gaussian Noise) [[SITE LINK]](https://dacon.io/codeshare/4652?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
+### 3. [Object Detection] 3) YOLOv1 논문 리뷰 [[SITE LINK]](https://dacon.io/forum/406114?page=1&dtype=recent&utm_source=dacrew&utm_medium=409575&utm_campaign=dacrew_1) [[CODE LINK]]
 
 
